@@ -3,7 +3,6 @@
 #include<stdbool.h>
 
 
-//structure for a node containing datd and left and right node
 struct node
 {
     int data;
